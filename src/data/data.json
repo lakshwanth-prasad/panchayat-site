@@ -20,7 +20,8 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Pongal Festival",
+      "desc": "2021 Celebration",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },

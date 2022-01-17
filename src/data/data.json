@@ -8,7 +8,7 @@
     "Why": [
       "The Tambaram Railway Station is 8km From Here",
       "With Good Connectivity to IT Hubs Of OMR and SEZ in Tambaram",
-      "Well Connected to All Parts Of the City Epically the Neighbouring Suburbs of Medavakkam, Kovilambakkam, Tambaram, and Sithalapakkam",
+      "Well Connected to All Parts Of the City Epically the Neighbouring Suburbs of Medavakkam,Kovilambakkam, Tambaram, and Sithalapakkam",
       "Gets Water From Two Lakes Periyeri and Sitheri, Making it One Of the Most Water-Abundant Suburbs of Chennai"
     ],
     "Why2": [
@@ -20,50 +20,124 @@
   },
   "Gallery": [
     {
-      "title": "Pongal Festival",
-      "desc": "2021 Celebration",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A4037.jpg",
+      "smallImage": "img/portfolio/0D2A4037.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A4175.jpg",
+      "smallImage": "img/portfolio/0D2A4175.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A4179.jpg",
+      "smallImage": "img/portfolio/0D2A4179.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A4193.jpg",
+      "smallImage": "img/portfolio/0D2A4193.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A4203.jpg",
+      "smallImage": "img/portfolio/0D2A4203.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A4470.jpg",
+      "smallImage": "img/portfolio/0D2A4470.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A4540.jpg",
+      "smallImage": "img/portfolio/0D2A4540.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A4568.jpg",
+      "smallImage": "img/portfolio/0D2A4568.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A4784.jpg",
+      "smallImage": "img/portfolio/0D2A4784.jpg"
+    },
+    {
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A4795.jpg",
+      "smallImage": "img/portfolio/0D2A4795.jpg"
+    },
+    {
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A4935.jpg",
+      "smallImage": "img/portfolio/0D2A4935.jpg"
+    },
+    {
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A4939.jpg",
+      "smallImage": "img/portfolio/0D2A4939.jpg"
+    },
+    {
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A4943.jpg",
+      "smallImage": "img/portfolio/0D2A4943.jpg"
+    },
+    {
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A4947.jpg",
+      "smallImage": "img/portfolio/0D2A4947.jpg"
+    },
+    {
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A4951.jpg",
+      "smallImage": "img/portfolio/0D2A4951.jpg"
+    },
+    {
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A4953.jpg",
+      "smallImage": "img/portfolio/0D2A4953.jpg"
+    },
+    {
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A5024.jpg",
+      "smallImage": "img/portfolio/0D2A5024.jpg"
+    },
+    {
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A5064.jpg",
+      "smallImage": "img/portfolio/0D2A5064.jpg"
+    },
+    {
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A5150.jpg",
+      "smallImage": "img/portfolio/0D2A5150.jpg"
+    },
+    {
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A5176.jpg",
+      "smallImage": "img/portfolio/0D2A5176.jpg"
+    },
+    {
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A5274.jpg",
+      "smallImage": "img/portfolio/0D2A5274.jpg"
+    },
+    {
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A5285.jpg",
+      "smallImage": "img/portfolio/0D2A5285.jpg"
+    },
+    {
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A5322.jpg",
+      "smallImage": "img/portfolio/0D2A5322.jpg"
+    },
+    {
+      "title": "Best Humanitarian Award",
+      "largeImage": "img/portfolio/0D2A5323.jpg",
+      "smallImage": "img/portfolio/0D2A5323.jpg"
     }
   ],
   "Services": [

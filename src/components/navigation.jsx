@@ -15,8 +15,8 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <a className='navbar-brand page-scroll' href='#page-top'>
-          Vengaivasal
+          <a className='navbar-brand page-scroll' href='#page-top' style ={{fontSize:'17px'}}>
+          Vengaivasal Panchayat Association
           </a>{' '}
         </div>
 
@@ -35,11 +35,11 @@ export const Navigation = (props) => {
                 Places to Visit
               </a>
             </li>
-            <li>
+            {/*<li>
               <a href='#services' className='page-scroll'>
                 Upcoming Events
               </a>
-            </li>
+            </li>*/}
             <li>
               <a href='#portfolio' className='page-scroll'>
                 Gallery

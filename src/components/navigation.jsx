@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top' style ={{fontSize:'17px'}}>
-          Vengaivasal Panchayat Association
+          Vengaivasal Panchayat Union
           </a>{' '}
         </div>
 
@@ -47,7 +47,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='#contact' className='page-scroll'>
-                Contact
+                Complaints
               </a>
             </li>
           </ul>

@@ -9,9 +9,7 @@ export const Contact = (props) => {
             <div className='row'>
               <div className='section-title'>
                 <h2>Get In Touch</h2>
-                <button type='submit' onClick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSd47BxexQS8Fmkh0wyLElDeQ8KB0glazA4i3u4Et1KgwQFqRg/viewform?usp=sf_link'" className='btn btn-custom btn-lg'>
-                  Raise Complaint
-                </button>
+                <p style={{"fontSize":"18px","margin-top":"12px","marginBottom":"0px"}}>Please Feel Free to Share Your Grievance If You Have Any</p>
                 <button className='btn btn-custom btn-lg'><a className="a1" href='https://docs.google.com/forms/d/e/1FAIpQLSd47BxexQS8Fmkh0wyLElDeQ8KB0glazA4i3u4Et1KgwQFqRg/viewform?usp=sf_link' alt='Broken Link'>Raise Complaint</a></button>
                 {/*<p>
                   Please fill out the form below to send us an email and we will
@@ -221,7 +219,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2022 Vengaivasal Panchayat{' '}, Designed By &nbsp;
+            &copy; 2022 Vengaivasal Panchayat Union{' '}, Designed By &nbsp;
             <a href='https://aicl.training/' rel='nofollow'>
               AICL
             </a>

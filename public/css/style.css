@@ -532,6 +532,12 @@ header .intro-text {
     color: #0e5dfb;
     background: rgb(255, 255, 255);
 }
+.ps{
+  margin-top: 12px;
+  margin-bottom: 0px;
+  font-size: 18px;
+}
+#contact .ps
 label {
   font-size: 12px;
   font-weight: 400;

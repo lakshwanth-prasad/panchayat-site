@@ -8,6 +8,20 @@ html {
   width: 100% !important;
   height: 100% !important;
 }
+.tables{
+  width: 20%;
+  color: #fff;
+  font-size: 18PX;
+}
+.tables2{
+  width: 40%;
+  color: #fff;
+  font-size: 18PX;
+}
+.tables3{
+  width: 50%;
+}
+
 h2,
 h3,
 h4 {
@@ -36,7 +50,7 @@ h5 {
   line-height: 20px;
 }
 p {
-  font-size: 15px;
+  font-size: 18px;
 }
 p.intro {
   margin: 12px 0 0;
@@ -287,6 +301,7 @@ header .intro-text {
   margin-left: 6px;
   list-style: none;
   padding: 0;
+  font-size: 18px;
 }
 #about .about-text li:before {
   content: "\f00c";
@@ -306,6 +321,7 @@ header .intro-text {
 #about p {
   line-height: 24px;
   margin: 30px 0;
+  font-size: 18px;
 }
 /* Services Section */
 #services {
@@ -441,13 +457,14 @@ header .intro-text {
 }
 /* Team Section */
 #team {
-  padding: 100px 0;
+  padding: 72px 0;
 }
 #team h4 {
   margin: 5px 0;
 }
 #team .team-img {
-  width: 240px;
+  width: 600px;
+  height: 250px;
 }
 #team .thumbnail {
   background: transparent;
@@ -459,7 +476,7 @@ header .intro-text {
 }
 /* Contact Section */
 #contact {
-  padding: 100px 0 60px;
+  padding: 12px 0 60px;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: rgba(255, 255, 255, 0.75);
 }
@@ -472,7 +489,7 @@ header .intro-text {
 #contact h2 {
   color: #fff;
   margin-top: 10px;
-  margin-bottom: 15px;
+  margin-bottom: 0px;
   padding-bottom: 15px;
 }
 #contact .section-title h2::after {
@@ -486,9 +503,9 @@ header .intro-text {
 }
 #contact h3 {
   color: #fff;
-  margin-top: 80px;
-  margin-bottom: 25px;
-  padding-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding-bottom: 5px;
   font-weight: 400;
 }
 #contact form {
@@ -506,6 +523,14 @@ header .intro-text {
 #contact .btn-custom:hover {
   color: #0e5dfb;
   background: #fff;
+}
+.a1{
+  color:#fff;
+  
+}
+.a1:hover{
+    color: #0e5dfb;
+    background: rgb(255, 255, 255);
 }
 label {
   font-size: 12px;
@@ -550,11 +575,13 @@ label {
 }
 #contact .contact-item {
   margin: 20px 0;
+  font-size: 18px;
 }
 #contact .contact-item span {
   color: rgba(255, 255, 255, 1);
   margin-bottom: 10px;
   display: block;
+  font-size: 18px;
 }
 #contact .contact-item i.fa {
   margin-right: 10px;
